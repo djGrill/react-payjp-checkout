@@ -2,7 +2,7 @@
   "name": "react-payjp-checkout",
   "version": "0.0.1",
   "description": "A React component for payjp checkout",
-  "main": "./lib/payjp_checkout.js",
+  "main": "./src/payjp_checkout.js",
   "repository": "https://github.com/LancersDevTeam/react-payjp-checkout/",
   "homepage": "https://github.com/LancersDevTeam/react-payjp-checkout/",
   "bugs": "https://github.com/LancersDevTeam/react-payjp-checkout/issues",
