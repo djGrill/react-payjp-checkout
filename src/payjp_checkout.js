@@ -6,7 +6,7 @@ class PayjpCheckout extends Component {
     constructor(props: Object) {
         super(props);
         this.windowAlertBackUp = window.alert;
-        this.script = document.createElement('script');
+        this.script = React.createElement('script');
         this.payjpCheckoutRef = null;
         this.script.setAttribute('src', 'https://checkout.pay.jp/');
         this.script.setAttribute('class', this.props.className);
